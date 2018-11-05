@@ -1,0 +1,4 @@
+5/11 inicio do projeto
+
+13:30 - 16:00 - Adaptando projeto anterior para o Spring
+16:00 - 17:30 - Criacao interface de cadastro aluno no jsp
